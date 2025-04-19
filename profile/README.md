@@ -1,1 +1,1 @@
-Different tweaks for TrackMania Forever games.
+QOL modification for TrackMania Forever.
