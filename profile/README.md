@@ -1,1 +1,1 @@
-QOL modification for TrackMania Forever.
+QOL modifications for various old Trackmania games.
